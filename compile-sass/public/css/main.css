@@ -1,0 +1,10 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.container {
+  background-image: url("/src/assets/preview.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+}
